@@ -1,4 +1,6 @@
-# LOGICZSL
-LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning
+# LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_LOGICZSL_Exploring_Logic-induced_Representation_for_Compositional_Zero-shot_Learning_CVPR_2025_paper.pdf)]
 
-- [ ] Code Release / January 15.
+## About LOGICZSL
+
+
